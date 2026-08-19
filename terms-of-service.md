@@ -11,7 +11,11 @@ By creating an account, accessing, or using the Service, you agree to these Term
 Fyndo is a platform that allows users to discover, create, publish, save, and view garage sale listings. Fyndo provides technology for publishing and discovering listings. Fyndo does not own, sell, purchase, inspect, verify, deliver, or take possession of items advertised by users and is not a party to transactions between users.
 
 ## 2. Eligibility
-You must be at least **18 years old** and legally capable of entering into a binding agreement to use the Service.
+You must be at least **13 years** old to use the Service.
+
+If you are under the age of majority in your province, state, or country of residence, you may use the Service only with the consent and supervision of a parent or legal guardian. By permitting a minor to use the Service, the parent or legal guardian agrees to these Terms on the minor's behalf and is responsible for the minor's use of the Service.
+
+You may not use the Service if you are under **13 years** of age.
 
 ## 3. Accounts
 Certain features require an account. Accounts may be created using supported authentication methods, including email and password or Sign in with Apple. You agree to provide accurate information and keep your account secure. If you believe your account has been compromised, contact **support.fyndo@gmail.com**.
