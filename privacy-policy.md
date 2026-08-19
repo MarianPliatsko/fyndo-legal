@@ -69,15 +69,13 @@ For purposes of this Privacy Policy:
 
 ## 5. Eligibility
 
-Fyndo is intended solely for individuals who are **18 years of age or older**.
+Fyndo is not intended for children **under 13 years of age**.
 
-By using the Service, you represent and warrant that:
+You must be at least 13 years old to create an account or use the Service. If you are under the age of majority in your province, state, or country of residence, you may use the Service only with the consent and supervision of a parent or legal guardian.
 
-- You are at least 18 years old
-- You have the legal capacity to enter into binding agreements
-- All information you provide is accurate and complete
+We do not knowingly collect Personal Information from children under 13. If we become aware that we have collected Personal Information from a child under 13 without legally valid parental consent where required, we will take reasonable steps to delete that information and may suspend or delete the associated account.
 
-We do not knowingly collect personal information from individuals under the age of 18. If we become aware that an account belongs to a person under 18 years of age, we may suspend or permanently delete the account and associated information.
+If you are a parent or legal guardian and believe that a child under 13 has provided Personal Information to Fyndo, please contact us at support.fyndo@gmail.com.
 
 ## 6. Changes to this Privacy Policy
 
@@ -354,7 +352,7 @@ You are solely responsible for the information you publish. Before publishing a 
 - Passwords
 - Government identification numbers
 - Personal medical information
-- Information relating to minors
+- Sensitive Personal Information relating to minors
 - Confidential business information
 - Any other sensitive personal information
 
